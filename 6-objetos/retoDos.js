@@ -8,7 +8,7 @@ console.log(geekGirl1.run());
 
 
 //Segunda parte 
-geekGirl1.runAMarathon = function(distance) {
+geekGirl1.runAMarathon = function() {
     return 'Estoy corriendo un maratón de ' + geekGirl1.distance + ' kilómetros';
 }
 console.log(geekGirl1.runAMarathon());
